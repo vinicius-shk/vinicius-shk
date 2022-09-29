@@ -3,7 +3,9 @@
 ## My name is Vinicius Shkromada de Oliveira and I'm a Full Stack Web Developer Student at Trybe.
 
 📫 How to reach me: 
+
   º https://www.linkedin.com/in/vinicius-shk/
+  
   º vinicius.shk@gmail.com
   
 🔭 I’m currently working on learning SQL and Node.js.
