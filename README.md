@@ -1,6 +1,10 @@
-# 💫 About Me:
-Hello, my name is Vinicius Shkromada de Oliveira and I'm a FullStack developer from Brazil.<br><br>Right now I'm studying Python and getting to know:<br><br>- Flask<br>- Django<br>- Machine Learning<br><br>Looking forward to contributing to any JS/Python projects out there and helping the community.
+# Hello, my name is Vinicius Shkromada de Oliveira and I'm a FullStack developer from Brazil.
+<br><br>Right now I'm studying Python and getting to know:
+  * Flask
+  * Django
+  * Machine Learning
 
+Looking forward to contributing to any JS/Python projects out there and helping the community.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-shk) 
