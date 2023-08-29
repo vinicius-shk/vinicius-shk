@@ -1,10 +1,10 @@
 # Hello, my name is Vinicius Shkromada de Oliveira and I'm a FullStack developer from Brazil.
 <br><br>Right now I'm studying C# and getting to know:
-  * .Net
-  * ASP.NET Core
-  * ASP.NET Web API
 
-Looking forward to contributing to any JS/Python projects out there and helping the community.
+  * Java
+  * Spring boot
+
+Looking forward to contributing to any projects out there and helping the community.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-shk) 
